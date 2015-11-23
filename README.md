@@ -7,12 +7,12 @@ It is built as a part of Software Engineering course project. It is a built usin
 
 1. Install python-flask in a virtual environment. [Flask Installation using Virtual Environment](http://flask.pocoo.org/docs/0.10/installation/)
 2. Install flask-httpauth. [Flask HTTPAuth docs](https://flask-httpauth.readthedocs.org/en/latest/)
->  $ pip install flask-httpauth 
+>  pip install flask-httpauth 
 3. Go to the web directory where the code is installed on the server in command prompt/terminal. 
 5. Find the python file db.py and execute it.
 6. Hit the URL at which you have setup the project 
 >  http://localhost:5000/
-You should get the home page of the application.
+7. You should get the home page of the application.
 
 ## Developers
 
