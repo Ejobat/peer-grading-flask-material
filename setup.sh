@@ -5,4 +5,3 @@ virtualenv venv
 . venv/bin/activate
 pip install Flask
 pip install flask-httpauth
-python db.py
