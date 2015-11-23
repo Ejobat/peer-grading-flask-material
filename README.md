@@ -14,6 +14,10 @@ It is built as a part of Software Engineering course project. It is a built usin
 >  http://localhost:5000/
 7. You should get the home page of the application.
 
+## Quick Start
+
+If you are on Linux, you can simply run setup.sh to install and run the project.
+
 ## Developers
 
 * Vaibhav Tripathi
