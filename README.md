@@ -16,7 +16,7 @@ It is built as a part of Software Engineering course project. It is a built usin
 
 ## Quick Start
 
-If you are on Linux, you can ignore steps 1 and 2 and simply run setup.sh to install the project instead.
+If you are on Linux, you can ignore steps 1, 2 and 3 and simply run setup.sh to install the project instead.
 
 ## Developers
 
