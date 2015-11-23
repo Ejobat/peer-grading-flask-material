@@ -9,14 +9,14 @@ It is built as a part of Software Engineering course project. It is a built usin
 2. Install flask-httpauth. [Flask HTTPAuth docs](https://flask-httpauth.readthedocs.org/en/latest/)
 >  pip install flask-httpauth 
 3. Go to the web directory where the code is installed on the server in command prompt/terminal. 
-5. Find the python file db.py and execute it.
-6. Hit the URL at which you have setup the project 
+4. Find the python file db.py and execute it.
+5. Hit the URL at which you have setup the project 
 >  http://localhost:5000/
-7. You should get the home page of the application.
+6. You should get the home page of the application.
 
 ## Quick Start
 
-If you are on Linux, you can simply run setup.sh to install and run the project.
+If you are on Linux, you can ignore steps 1 and 2 and simply run setup.sh to install the project instead.
 
 ## Developers
 
