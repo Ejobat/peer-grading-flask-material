@@ -1,7 +1,7 @@
 ## Peer Grading and Review System
 
 Peer Grading and Review System is a grading and feedback system for courses with peer grading structure. 
-It is built as a part of Software Engineering course project. It is a built using **Python Flask Microframework**, **SQLite** database, **Materialize CSS**.
+It was built as a course requirement during my masters at IIT Bombay. It is a built using **Python Flask Microframework**, **SQLite** database, **Materialize CSS**.
 
 ## Installation
 
